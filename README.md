@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Dominicnarzary
 - 👀 I’m interested in software development.
 - 🌱 I’m currently learning software develment to become a software developer.
-- 💞️ I'm looking for software developer who can guide me throughly.
+- 💞️ I'm looking for software developer who can guide me thoroughly.
 - 📫 How to reach me ... Please email me wotswilliam@gmail.com as I am eager to learn new productivity.
 
 <!---
